@@ -1,5 +1,5 @@
 <h1 align="center">Hello Codes</h1>
-<p align="center"><img src="https://hellocodes.kro.kr/static/img/logo.png" alt="logo" width="150"/></p>
+<p align="center"><img src="https://hellocodes.kro.kr/img/logo.png" alt="logo" width="150"/></p>
 
 
   
